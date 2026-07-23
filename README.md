@@ -15,11 +15,8 @@ Before getting started, ensure you have installed:
 
 ## ⚙️ Local Model Setup
 
-1. Install Ollama from [ollama.com](https://ollama.com).
-2. Create your custom local model from the `Modelfile`:
-   ```bash
-   ollama create my-custom-math-qwen -f Modelfile
-   
+After Install Ollama from [ollama.com](https://ollama.com).
+
 1. Clone the Repository
     git clone https://github.com/Ridhinir18/EXECUTE_LOCALLY.git
     cd REPO_NAME
