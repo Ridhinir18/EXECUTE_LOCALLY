@@ -1,6 +1,6 @@
 # 📘 Local Model Test (FastAPI + Ollama)
 
-A lightweight FastAPI backend that interfaces locally with custom Ollama models for mathematical reasoning and problem-solving.
+A lightweight FastAPI backend that interfaces locally with custom Ollama models.
 
 ---
 
